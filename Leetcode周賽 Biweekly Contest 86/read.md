@@ -2,10 +2,10 @@ Leetcode周賽 Biweekly Contest 86 紀錄
 
 看那666,1666名 大概是少數我有機會拿獎品的比賽了巴
 
-![image](https://github.com/ga544523/contest/blob/main/leetcode/%E6%93%B7%E5%8F%96.PNG)
+![image](https://github.com/ga544523/contest/blob/main/Leetcode%E5%91%A8%E8%B3%BD%20Biweekly%20Contest%2086/%E6%93%B7%E5%8F%96.PNG?raw=true)
 
 遺憾最後力道沒控制好 還會有下次嗎 
-![image](https://github.com/ga544523/contest/blob/main/leetcode/%E6%93%B7%E5%8F%961.PNG)
+![image](https://github.com/ga544523/contest/blob/main/Leetcode%E5%91%A8%E8%B3%BD%20Biweekly%20Contest%2086/%E6%93%B7%E5%8F%961.PNG?raw=true)
 
 
 T1: 2395. Find Subarrays With Equal Sum
